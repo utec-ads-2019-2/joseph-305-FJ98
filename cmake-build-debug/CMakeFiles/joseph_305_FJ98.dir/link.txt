@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/joseph_305_FJ98.dir/main.cpp.o  -o joseph_305_FJ98 

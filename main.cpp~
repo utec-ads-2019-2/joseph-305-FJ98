@@ -1,0 +1,21 @@
+/* INPUT:
+ * The input file consists of separate lines containing k.
+ * The last line in the input file contains ‘0’.
+ * You can suppose that 0 < k < 14. */
+
+/* OUTPUT:
+ * The output file will consist of separate lines 
+ * containing m corresponding tokin the input file. */
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int input, savedInput;
+    while (cin >> input && input != 0) {
+        
+    }
+
+    return 0;
+}
+
